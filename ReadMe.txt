@@ -7,3 +7,5 @@ Jeœli wyraz nie zawiera podanego znaku, odejmowane jest jedno ¿ycie. Gdy gracz w
 pojawi siê napis "HANGMAN" i komunikat o przegranej.
 3. Millionaire(Milionerzy) ALPHA - symulacja popularnego teleturnieju. Gracz musi odpowiedzieæ na 12 pytañ, aby wygraæ 1 milion z³otych.
 Wersja wstêpna bez kó³ ratunkowych.
+
+******Poszczególna loga w Menu mog¹ siê rozje¿d¿aæ w IDE. Po wyeksportowaniu do .jar i uruchomieniu w konsoli systemowej, wszystko jest w porz¹dku.******
